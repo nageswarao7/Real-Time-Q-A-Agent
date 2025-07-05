@@ -41,7 +41,6 @@ Traditional AI chatbots like ChatGPT and Claude are limited by their training da
    Create a `.env` file in the same directory:
    ```env
    GOOGLE_API_KEY=your_google_api_key_here
-   GOOGLE_PROJECT_ID=your_project_id
    ```
 
 4. **Run the application**
