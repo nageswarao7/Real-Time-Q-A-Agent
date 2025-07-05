@@ -22,7 +22,6 @@ Traditional AI chatbots like ChatGPT and Claude are limited by their training da
 
 ### Prerequisites
 - Python 3.8+
-- Google Cloud Platform account
 - Google ADK API access
 
 ### Installation & Setup
@@ -94,9 +93,6 @@ The `app.py` file contains:
 - Session management
 - Error handling
 
-## 🤝 Contributing
-
-Feel free to fork this repository and submit pull requests for improvements!
 
 ## 📄 License
 
@@ -105,8 +101,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Nageswara Rao Vutla**
-- Associate Machine Learning and GenAI Engineer
-- Passionate about building intelligent, web-connected AI systems
+- Associate Machine Learning and Generative AI Engineer
 
 ## ⭐ Support
 
